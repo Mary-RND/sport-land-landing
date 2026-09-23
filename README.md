@@ -7,6 +7,8 @@
 
 ![Лендинг, полная версия (desktop)](screenshots/desktop-full.png)
 
+**Live demo:** [late-dust-16d5.mar-petrushina.workers.dev](https://late-dust-16d5.mar-petrushina.workers.dev/) — деплой на Cloudflare Workers.
+
 ---
 
 ## О проекте
