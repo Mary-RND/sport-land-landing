@@ -5,9 +5,9 @@
 эмеральд-палитра, адаптивная вёрстка и чистый HTML/CSS/JS без фреймворков
 и сборщиков.
 
-![Лендинг, полная версия (desktop)](screenshots/desktop-full.png)
+![Лендинг, полная версия (desktop)](screenshots/desktop-full.jpg)
 
-**Live demo:** [late-dust-16d5.mar-petrushina.workers.dev](https://late-dust-16d5.mar-petrushina.workers.dev/) — деплой на Cloudflare Workers.
+**Live demo:** [mary-rnd.github.io/sport-land-landing](https://mary-rnd.github.io/sport-land-landing/) — деплой на GitHub Pages.
 
 ---
 
