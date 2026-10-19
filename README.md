@@ -1,4 +1,6 @@
 > [← Портфолио Марины Петрушиной](https://mary-rnd.github.io/portfolio/) — сайты, ИИ-боты, трекеры и автоматизация для малого бизнеса и MedTech.
+>
+> ⚠️ **Архивная версия (v1).** Актуальный лендинг — [Sport Land v2](https://mary-rnd.github.io/sport-land-v2-landing/).
 
 # sport-land-landing
 
